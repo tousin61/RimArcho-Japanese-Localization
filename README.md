@@ -1,0 +1,1 @@
+# RimArcho-Japanese-Localization
